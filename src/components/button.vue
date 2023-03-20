@@ -44,7 +44,8 @@
 }
 
 .pi-btn:hover>span span.action {
-    background-color: orange;
+    background-color: rgb(255,200,150);
+//    background-color: orange;
 }
 
 .pi-btn.dragged:hover>span span.action {
